@@ -11,7 +11,7 @@ ignora lo que tiene este formato<!-- comentario -->
 -->
 #Objetivo
 usa ZohoMCP e ingresa en el módulo TRO_Ubicaciones, los datos de un Excel. 
-No profundices enexplicaciones cuando los procesos normales
+No profundices en explicaciones cuando los procesos normales
 
 #Reglas duras: 
 - identifica la conexion con ZohoMCP, alerta sobre su ausencia y aborta el skill  
