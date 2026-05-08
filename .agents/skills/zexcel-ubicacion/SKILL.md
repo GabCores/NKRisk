@@ -4,7 +4,8 @@ description: Zoho- desde Excel hacia Ubicaciones
 ---
 ignora lo que tiene este formato<!-- comentario -->
 
-<!-- Cuando se invoque este skill, responde exactamente:
+<!-- version3.0 
+   Cuando se invoque este skill, responde exactamente:
    "Este skill está en desarrollo."
    y no evalues el resto 
 -->
